@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AsyncTackDemo</string>
+    <string name="start">Load</string>
+    <string name="image_ghoul">https://wallpaperplay.com/walls/full/c/8/1/30748.jpg</string>
 </resources>
